@@ -1,0 +1,6 @@
+category,weekday_mean,weekend_mean,weekend_lift,statistic,p_value,cohens_d,significant,effect_size,flag
+Cat_A,44.64,55.06,1.234,4063851950.0,0.0,0.374,YES,Small,No replenishment adjustment needed
+Cat_B,56.37,69.46,1.232,4158424184.0,0.0,0.42,YES,Small,No replenishment adjustment needed
+Cat_C,52.91,65.25,1.233,4111878201.5,0.0,0.396,YES,Small,No replenishment adjustment needed
+Cat_D,49.08,60.57,1.234,4143483611.0,0.0,0.409,YES,Small,No replenishment adjustment needed
+Cat_E,41.93,51.68,1.232,4099404018.0,0.0,0.375,YES,Small,No replenishment adjustment needed

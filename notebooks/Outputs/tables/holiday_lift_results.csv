@@ -1,0 +1,6 @@
+category,holiday_weeks,non_hol_weeks,holiday_mean,non_hol_mean,lift_ratio,statistic,p_value,significant,recommendation
+Cat_A,50,212,45.08,48.16,0.936,335.0,0.003,YES,Reduce pre-holiday orders — demand suppressed on federal holidays
+Cat_B,50,212,56.9,60.8,0.936,334.0,0.0029,YES,Reduce pre-holiday orders — demand suppressed on federal holidays
+Cat_C,50,212,53.41,57.09,0.936,326.0,0.0022,YES,Reduce pre-holiday orders — demand suppressed on federal holidays
+Cat_D,50,212,49.59,52.96,0.936,323.0,0.002,YES,Reduce pre-holiday orders — demand suppressed on federal holidays
+Cat_E,50,212,42.3,45.23,0.935,329.0,0.0024,YES,Reduce pre-holiday orders — demand suppressed on federal holidays

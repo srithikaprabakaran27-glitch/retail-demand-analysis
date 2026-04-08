@@ -1,0 +1,2 @@
+volatility_tier,sku_count,avg_cv,avg_stockout_rate,avg_fill_rate,total_lost_revenue,total_financial_waste,avg_max_consec_stockout,avg_max_consec_overstock
+Medium,500,0.29054677652985056,1.7524644030668127e-05,0.9999951968804958,11583.908045972203,172252412.175248,41.798,1702.378
